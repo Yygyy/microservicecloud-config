@@ -5,9 +5,9 @@ spring:
 spring:
   profiles: dev
   application:
-    name:microservicecloud-config-lsmy-dev
+    name: microservicecloud-config-lsmy-dev
 ---
 spring:
   profiles: test
   application:
-    name:microservicecloud-config-lsmy-test
+    name: microservicecloud-config-lsmy-test
